@@ -59,6 +59,7 @@ This repository serves as a public record of my learning journey where I continu
 
 * ✅ Day 1 Completed
 * ✅ Day 2 Completed
+* ✅ Day 3 Completed
 * 🔄 Continuing...
 
 > Small progress every day leads to big results over time.
